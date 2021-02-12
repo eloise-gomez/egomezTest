@@ -72,3 +72,4 @@ mkdir tmp
 cd tmp
 egomezTest-run
 ```
+# egomezTest
